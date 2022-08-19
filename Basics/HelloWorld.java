@@ -9,7 +9,7 @@ class HelloWorld
      String age;
      static String language; // Static variable
      boolean isProgrammer; // Instance variable
-    public static void main(String[] args) // Execution stsrts from here ! 
+    public static void main(String[] args) // Execution starts from here ! 
     {
         int localVariable=10; // Local variable
         System.out.println("Hello World"); // Prints "Hello World on console"
