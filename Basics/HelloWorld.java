@@ -15,5 +15,5 @@ class HelloWorld
         System.out.println("Hello World"); // Prints "Hello World on console"
         System.out.println("Local variable value is "+localVariable);
     }
- 
+    
 }
