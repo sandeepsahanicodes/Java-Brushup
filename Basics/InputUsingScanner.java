@@ -1,5 +1,5 @@
+/* 03-Taking user input using Scanner class*/
 import java.util.Scanner; // Importing Scanner class
-
 class InputUsingScanner
 {
     public static void main(String[] args) 
@@ -15,7 +15,7 @@ class InputUsingScanner
 
         add=num1+num2;
         multiply=num1*num2; 
-        
+
         System.out.println("First number="+num1);
         System.out.println("Second number="+num2);
         System.out.println("Sum="+add);
