@@ -3,7 +3,7 @@ class Rectangle
     private int length;
     private int breadth;
 
-    public void init(int length,int breadth)
+    public void init(int length,int breadth) // Method to initialize length and breadth
     {
         this.length=length;
         this.breadth=breadth;
@@ -28,7 +28,7 @@ class RectangleDriver
 {
     public static void main(String[] args)
     {
-        Rectangle r=new Rectangle();
+        Rectangle r=new Rectangle(); // Rectangle class object
         r.init(10, 20);
         r.display();
         r.calculateArea();
