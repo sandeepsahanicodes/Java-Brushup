@@ -1,3 +1,4 @@
+/* 04-Learned about classes and object*/
 class Rectangle
 {
     private int length;
