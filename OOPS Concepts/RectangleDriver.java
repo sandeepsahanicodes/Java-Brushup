@@ -36,5 +36,6 @@ class RectangleDriver
         r.calculatePerimeter();
         r.calculateArea();
         r.display();
+        r.calculateArea();
     }
 }
