@@ -37,10 +37,7 @@ class RectangleDriver
         r.calculateArea();
         r.display();
         r.calculateArea();
-        int a = 10;
-        int b = 15;
-        int summ = a+b;
-        System.out.println("Sum= "+summ);
+        
 
     }
 }
