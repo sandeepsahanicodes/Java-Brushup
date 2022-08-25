@@ -11,15 +11,15 @@ class Rectangle
     }
     public void display()
     {
-        System.out.println("Length= "+length+"Breadth= "+breadth);
+        System.out.println("Length = "+length+" "+"Breadth = "+breadth);
     }
     public void calculateArea()
     {
-        System.out.println("Area= "+(length*breadth)+"Sq Unit");
+        System.out.println("Area = "+(length*breadth)+"Sq Unit");
     }
     public void calculatePerimeter()
     {
-        System.out.println("Perimeter= "+2*(length+breadth)+"CM");
+        System.out.println("Perimeter = "+2*(length+breadth)+"CM");
     }
 
 }
@@ -36,8 +36,5 @@ class RectangleDriver
         r.calculatePerimeter();
         r.calculateArea();
         r.display();
-        r.calculateArea();
-        
-
     }
 }
