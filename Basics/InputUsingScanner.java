@@ -1,4 +1,15 @@
 /* 03-Taking user input using Scanner class*/
+
+/* 
+   ~ Scanner is pre defined class for taking input from console.
+   ~ In order to use Scanner class we have to import it.
+   ~ Syntax
+    Scanner objectName = new Scanner(System.in); // Object of Scanner class
+    objectName.nextLine(); // To take String input
+    objectName.nextInt(); // To take integer input
+   ~ After using Scanner object its a good practice to close it by writing objectName.close();
+*/
+
 import java.util.Scanner; // Importing Scanner class
 class InputUsingScanner
 {
