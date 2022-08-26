@@ -1,4 +1,13 @@
 /* 02-Basic grammer of java*/
+
+/* 
+   ~ In java , + is overloaded operator used to concatenate strings.
+   ~ Number + Number = Number
+     Number + String = String
+     String + Number = String
+   ~ This can be used for formating output like to concate a string with number etc.
+*/
+
 class Grammer 
 {
     public static void main(String[] args) 
@@ -11,7 +20,7 @@ class Grammer
         System.out.println("First number= "+num1);
         System.out.println("Second number= "+num2);
         System.out.println("Sum= "+sum);
-        System.out.println("Multiplay= "+multiply);
+        System.out.println("Multiply= "+multiply);
 
     }
 }
