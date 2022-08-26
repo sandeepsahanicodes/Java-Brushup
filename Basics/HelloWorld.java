@@ -1,7 +1,10 @@
 /* 01-Basic java program structure and compilation */
 
-// javac programName.java (Compilation)
-// java programName (Execution)
+/* 
+   ~ javac programName.java (Compilation)
+   ~ java programName (Execution)
+
+*/
 
 class HelloWorld 
 {
