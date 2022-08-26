@@ -1,8 +1,5 @@
-import java.util.Scanner;
-
-import javax.swing.plaf.basic.BasicBorders.MarginBorder;
-
 /* 05- Taking user input in above program */
+import java.util.Scanner;
 class Rectangle
 {
     private int length;
