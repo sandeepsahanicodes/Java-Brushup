@@ -1,4 +1,15 @@
 /* 06- All about methods */
+
+/* 
+   ~ Method is a block of code which can be executed by calling it.
+   ~ Syntax
+   AccessSpecifier returnType methodName(parameter1,parameter 2,...)
+   {
+      // Code
+   }
+   ~ methodName(); method call 
+*/
+
 class Method
 {
     void m1() // Non static method
