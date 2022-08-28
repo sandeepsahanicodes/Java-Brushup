@@ -31,7 +31,7 @@ class RectangleUsingConstructor
 {
     public static void main(String[] args) 
     {
-        Rectangle r = new Rectangle(10, 20);
+        Rectangle r = new Rectangle(10, 20); // Rectangle class object
         System.out.println("Area of rectangle is "+r.area()+" Sq units");
         System.out.println("Perimeter of rectangle is "+r.perimeter()+" units");
         r.display();
