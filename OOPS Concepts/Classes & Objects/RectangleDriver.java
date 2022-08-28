@@ -19,10 +19,10 @@ class Rectangle
     private int length;
     private int breadth;
 
-    public void init(int length,int breadth) // Method to initialize length and breadth
+    public void init(int l,int b) // Method to initialize length and breadth
     {
-        this.length=length;
-        this.breadth=breadth;
+        length=l;
+        breadth=b;
     }
     public void display()
     {
