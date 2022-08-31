@@ -2,7 +2,7 @@
 
 /*
   ~ this keyword holds current object
-  ~ this keyword is commonly used to diffrentiate the class and method/constructor variables(when both have same name)
+  ~ this keyword is commonly used to diffrentiate the class and method(Non static)/constructor variables(when both have same name)
   ~ Although constructor doesn't have return type but it returns this(reference of memory location) implicitly which gets stored in reference variable
  */
 class Complex
