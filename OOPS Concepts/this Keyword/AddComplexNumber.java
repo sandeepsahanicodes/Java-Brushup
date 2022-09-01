@@ -1,3 +1,5 @@
+/* 12- Program for adding complex number*/
+
 class Complex
 {
     private int real,imaginary;
