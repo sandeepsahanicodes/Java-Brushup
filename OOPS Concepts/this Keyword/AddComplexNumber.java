@@ -24,6 +24,7 @@ class Complex
         Complex c3=new Complex();
         c3.real = this.real+c2.real;
         c3.imaginary = this.imaginary+c2.imaginary;
+        c3.display();
     }
 
 }
@@ -37,6 +38,5 @@ class AddComplexNumber
         c1.display();
         c2.display();
         c1.add(c2);
-        c2.display();
     }
 }
