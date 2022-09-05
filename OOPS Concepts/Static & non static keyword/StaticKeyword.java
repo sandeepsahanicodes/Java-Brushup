@@ -1,9 +1,12 @@
 /* 12- About static keyword */
+/* 12- 
+ * ~ Static keyword is used to define class members. 
+ */
 class Static
 {
     static int x; // Static variable
     Static()
-    {
+    {               
         System.err.println("Default caonstructor");
     }
     static // Static block
