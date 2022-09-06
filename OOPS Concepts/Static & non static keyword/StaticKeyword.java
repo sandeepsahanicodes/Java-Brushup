@@ -1,6 +1,6 @@
 /* 12- About static keyword */
-/* 12- 
- * ~ Static keyword is used to define class members. 
+/*
+~ Static keyword is used to define comman class members.
  */
 class Static
 {
