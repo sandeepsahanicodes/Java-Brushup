@@ -9,7 +9,7 @@ class Static
     static int x; // Static variable
     Static()
     {               
-        System.err.println("Default caonstructor");
+        System.out.println("Default caonstructor");
     }
     static // Static block
     {
