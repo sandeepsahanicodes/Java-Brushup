@@ -1,6 +1,6 @@
 /* 12- About static keyword */
 /*
-~ Static keyword is used to define comman class members.
+~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
 ~ Static members are asscessed using class name.
 
  */
