@@ -1,7 +1,8 @@
 /* 12- About static keyword */
 /*
 ~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
-~ Static members are asscessed using class name.
+~ We can apply static keyword with variables, methods, blocks and nested classes
+~ Static members are assce ssed using class name.
 
  */
 class Static
@@ -9,7 +10,7 @@ class Static
     static int x; // Static variable
     Static()
     {               
-        System.out.println("Default caonstructor");
+        System.out.println("Default constructor");
     }
     static // Static block
     {
