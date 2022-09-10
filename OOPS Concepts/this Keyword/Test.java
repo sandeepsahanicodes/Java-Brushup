@@ -9,8 +9,9 @@
  ~ Calling constructor via this() and this(Args 1,Arg 2,...,Arg n) is called as constructor chaining
  */
 
-class Test 
+class Test
 {
+
     Test()
     {
        this(10); // Calling test(int a) via this(int a)
