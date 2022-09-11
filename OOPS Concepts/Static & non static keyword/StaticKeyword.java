@@ -3,10 +3,11 @@
 ~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
 ~ We can apply static keyword with variables, methods, blocks and nested classes
 ~ Static members are asscessed using class name.
-~ Flow for execution of static members
+~ Flow of execution of static members
  
 
  */
+
 class Static
 {
     static int x; // Static variable
