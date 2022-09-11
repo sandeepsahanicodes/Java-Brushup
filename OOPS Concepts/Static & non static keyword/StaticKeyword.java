@@ -1,9 +1,11 @@
 /* 12- About static keyword */
+
 /*
 ~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
 ~ We can apply static keyword with variables, methods, blocks and nested classes
 ~ Static members are asscessed using class name.
-~ Flow of execution of static members
+
+~ Static control flow
  
 
  */
