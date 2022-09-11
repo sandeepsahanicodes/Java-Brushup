@@ -6,8 +6,12 @@
 ~ Static members are asscessed using class name.
 
 ~ Static control flow
- 
+  1.Identification of static members from top to bottom.All the static variables, methods, and blocks are identified during this step.
 
+  2.Execution of static variable assignments and static blocks from top to bottom.
+
+  3.Finally, the static main method is executed in the last step of the static control flow.
+ 
  */
 
 class Static
