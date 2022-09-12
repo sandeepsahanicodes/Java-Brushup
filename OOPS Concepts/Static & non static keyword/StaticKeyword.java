@@ -1,4 +1,4 @@
-/* 12- About static keyword */
+/* 12- About static keyword concept */
 
 /*
 ~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
