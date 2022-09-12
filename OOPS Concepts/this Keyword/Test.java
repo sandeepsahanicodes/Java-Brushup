@@ -17,6 +17,7 @@ class Test
        this(10); // Calling test(int a) via this(int a)
        System.out.println("No argument constructor");
     }
+    
     Test(int a)
     {
         this(10,20); // Calling test(int a,int b) via this(int a,int b)
