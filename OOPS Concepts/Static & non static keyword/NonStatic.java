@@ -1,4 +1,15 @@
 /* 13- About non static concept */
+
+/*
+ 
+~ Non static/Instance control flow
+
+  1.Identification of instance member from top to bottom.
+  2.Execution of instance variable assignments and instance blocks from top to bottom.
+  3.Execution of constructor.
+ 
+ */
+
 class NonStatic 
 {
     int x; // Non static instance variable
