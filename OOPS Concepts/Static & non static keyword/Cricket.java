@@ -24,7 +24,7 @@ class Cricket
         Cricket c2 = new Cricket("Rohit", 80);
         c1.display();
         c2.display();
-        System.out.println("Team score="+Cricket.teamScore);
+        System.out.println("Team score="+Cricket.teamScore); // Display team score(Common property)
     }
 
 }
