@@ -1,7 +1,7 @@
 /* 13- About non static concept */
 
 /*
- 
+~Non static variable are created everytime when new object creates.
 ~ Non static/Instance control flow
 
   1.Identification of instance member from top to bottom.
