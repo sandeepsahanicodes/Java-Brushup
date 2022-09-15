@@ -22,8 +22,10 @@ class Cricket
     {
         Cricket c1 = new Cricket("Virat", 100);
         Cricket c2 = new Cricket("Rohit", 80);
+        Cricket c3 = new Cricket("Hardik", 60);
         c1.display();
         c2.display();
+        c3.display();
         System.out.println("Team score="+Cricket.teamScore); // Display team score(Common property)
     }
 
