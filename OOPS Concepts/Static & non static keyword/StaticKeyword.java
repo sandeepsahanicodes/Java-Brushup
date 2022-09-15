@@ -4,6 +4,7 @@
 ~ The static variable can be used to refer to the common property of all objects (which is not unique for each object)
 ~ We can apply static keyword with variables, methods, blocks and nested classes
 ~ Static members are asscessed using class name.
+~ Static variable creates only once.
 
 ~ Static control flow
   1.Identification of static members from top to bottom.All the static variables, methods, and blocks are identified during this step.
