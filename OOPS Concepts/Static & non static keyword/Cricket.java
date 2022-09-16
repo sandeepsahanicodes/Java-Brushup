@@ -1,4 +1,4 @@
-/* 14- Program for illustrate difference between static and non static memebers*/
+/* 14- First Program for illustrate difference between static and non static memebers*/
 class Cricket 
 {
     String name; // Player name
