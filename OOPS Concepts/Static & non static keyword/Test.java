@@ -1,8 +1,8 @@
 /* 15- Second Program for illustrate difference between static and non static memebers*/
 class Test 
 {
-    int x; // Non static instance variable
-    static int y; // Static instance variable
+    int x; // Non static instance variable.This will create everytime when new object is created
+    static int y; // Static instance variable.This will create only once.
     Test() // Default constructor
     {
         ++x;
