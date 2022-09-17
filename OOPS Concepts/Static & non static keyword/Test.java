@@ -5,8 +5,8 @@ class Test
     static int y; // Static instance variable.This will create only once.
     Test() // Default constructor
     {
-        ++x;
-        ++y;
+        ++x; // increment x by one
+        ++y; // increment y by one
     }
     // Driver method
     public static void main(String[] args) 
