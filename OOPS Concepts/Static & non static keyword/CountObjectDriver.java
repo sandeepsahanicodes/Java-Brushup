@@ -6,7 +6,6 @@ class ObjectA
     {
        count++;
     }
-
 }
 // Driver class
 class CountObjectDriver 
