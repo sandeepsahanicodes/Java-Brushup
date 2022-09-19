@@ -1,7 +1,7 @@
 /*18- Utility class concept*/
 /*
   ~ Class which contains only static members called as Utility class
-  ~ Non need of creation of object of an utility class, methods can be 
+  ~ Non need of object creation of an utility class, methods can be 
     accessed using class name only
 */
 class MyMath
