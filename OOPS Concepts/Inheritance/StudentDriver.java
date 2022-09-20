@@ -52,9 +52,9 @@ public class StudentDriver
         Student s=new Student();
         s.setName("Sandeep");
         s.setAge(20);
-        s.setMark(90);
+        s.setMark(90); // Setting student details from setters
         System.out.println("Name: "+s.getName());
         System.out.println("Age: "+s.getAge());
-        System.out.println("Mark: "+s.getMark());
+        System.out.println("Mark: "+s.getMark()); // Getting student details from getters
     }
 }
