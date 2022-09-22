@@ -2,6 +2,8 @@
 
 /*
   ~ Inheritance is the process of creating new class from an existing class.
+  ~ Classes may inherit or acquire the properties and methods of other classes.
+  ~ This hepls in code reusability.
   ~ Basic Terminology
     ~ Parent class/Super class -> Class from new class is created
     ~ Child class/Base class/Derived class -> Class which aquires other class properties
