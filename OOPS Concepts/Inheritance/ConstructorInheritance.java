@@ -1,5 +1,7 @@
 /*23- Inheritance constructor*/
-
+/*
+   ~ Inheritance with default constructor
+*/
 class A
 {
     A()
