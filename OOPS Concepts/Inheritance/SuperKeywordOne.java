@@ -1,5 +1,3 @@
-import javax.swing.plaf.metal.MetalInternalFrameUI;
-
 /*26- About Super keyword*/
 /*
  ~ Super keyword is used to refer parent class object inside derived class if both classes
