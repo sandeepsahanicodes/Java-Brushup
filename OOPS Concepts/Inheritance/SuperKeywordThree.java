@@ -37,7 +37,7 @@ class Student extends Person
 
     Student(String name,int age,int mark)
     {
-        super(name, age);
+        super(name, age); // Passing name and age from Student class to Person class constructor
         this.mark=mark;
     }
 
