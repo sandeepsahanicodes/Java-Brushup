@@ -1,6 +1,6 @@
 /*27- About Super keyword*/
 /*
- ~ Accessing methods of parent class
+ ~ program on accessing methods of parent class
 */
 
 class Parent
