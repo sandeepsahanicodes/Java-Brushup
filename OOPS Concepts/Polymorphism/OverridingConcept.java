@@ -17,7 +17,7 @@ class Parent
 
 class Child extends Parent
 {
-   @Override
+   @Override // Java annotation 
    void m1()
    {
      System.out.println("Child class redefining m1 method");
