@@ -2,7 +2,7 @@
 /*
   ~ Overloading is the process of redefining the method defination of parent class
     in child class if child class is not satisfied with its defination.
-  ~ Overriding is also known as dynamic polymorphism.
+  ~ Overriding is also known as dynamic polymorphism(Run time polymorphism).
   ~ Overriding need atleast two classes.
   ~ In order to override a method it has to be defined same as defined in parent class or else 
     overriding will not be carried out. 
