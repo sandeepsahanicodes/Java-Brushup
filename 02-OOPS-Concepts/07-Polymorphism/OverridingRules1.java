@@ -29,8 +29,8 @@ class OverridingRules1
     public static void main(String[] args)
     {
         Child childHoldsChild=new Child();
-        System.out.println("x="+childHoldsChild.x); // Childs instance variable gets accessed as reference is of child.
+        System.out.println("Child x="+childHoldsChild.x); // Childs instance variable gets accessed as reference is of child.
         Parent parentHoldsChild=new Child();
-        System.out.println("x="+parentHoldsChild.x); // Reference's instance variable will gets accessed(i.e Parents x).
+        System.out.println("Parent x="+parentHoldsChild.x); // Reference's instance variable will gets accessed(i.e Parents x).
     }
 }
