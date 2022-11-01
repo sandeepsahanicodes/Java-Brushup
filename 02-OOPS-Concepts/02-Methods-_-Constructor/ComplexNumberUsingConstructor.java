@@ -1,10 +1,4 @@
-/* 10- About this keyword */
-
-/*
-  ~ this keyword holds current object
-  ~ this keyword is commonly used to diffrentiate the class and method(Non static)/constructor variables(when both have same name)
-  ~ Although constructor doesn't have return type but it returns this(reference of memory location) implicitly which gets stored in reference variable
- */
+/* 09- Complex number problem using constructor */
 class Complex
 {
     int real,imaginary;
@@ -13,10 +7,10 @@ class Complex
         // Default constructor
     }
 
-    Complex(int real,int imaginary) // Argumented constructor for initialization of complex number
+    Complex(int rn,int in) // Argumented constructor for initialization of complex number
     {
-        this.real=real;
-        this.imaginary=imaginary;
+        real=rn;
+        imaginary=in;
     }
 
     void display() // To display complex number
@@ -25,7 +19,7 @@ class Complex
     }
 }
 // Driver class
-class ComplexNumberUsingThis
+class ComplexNumberUsingConstructor 
 {
     public static void main(String[] args) 
     {
